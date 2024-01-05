@@ -1,0 +1,14 @@
+E:\work\code\test\LinkNode\bin\Debug\net8.0\LinkNode.exe
+E:\work\code\test\LinkNode\bin\Debug\net8.0\LinkNode.deps.json
+E:\work\code\test\LinkNode\bin\Debug\net8.0\LinkNode.runtimeconfig.json
+E:\work\code\test\LinkNode\bin\Debug\net8.0\LinkNode.dll
+E:\work\code\test\LinkNode\bin\Debug\net8.0\LinkNode.pdb
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.AssemblyInfoInputs.cache
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.AssemblyInfo.cs
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.csproj.CoreCompileInputs.cache
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.dll
+E:\work\code\test\LinkNode\obj\Debug\net8.0\refint\LinkNode.dll
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.pdb
+E:\work\code\test\LinkNode\obj\Debug\net8.0\LinkNode.genruntimeconfig.cache
+E:\work\code\test\LinkNode\obj\Debug\net8.0\ref\LinkNode.dll
